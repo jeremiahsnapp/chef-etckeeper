@@ -1,0 +1,1 @@
+default[:etckeeper][:vcs] = "git"
